@@ -1,3 +1,10 @@
+<script>
+  body {
+  background-color: #000000;
+  }
+
+</script>
+
 <h1 align="center">Olá 👋, eu sou o Samuel</h1>
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí (IFPI)</h3>
 
