@@ -3,7 +3,7 @@
 
 - 📫 Fale comigo pelo email: **samuelluizrl@outlook.com**
 
-- ⚡ Curiosidade: **também sou um produtor musical**
+- ⚡ Curiosidade: **também sou produtor musical**
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
