@@ -5,7 +5,7 @@
 
 - ⚡ Curiosidade: **também sou produtor musical**
 
-<h3 align="left" margin="20">Conecte comigo:</h3>
+<h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/7samluiz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7samluiz7" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/samuelluizrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelluizrl" height="30" width="30" /></a>
