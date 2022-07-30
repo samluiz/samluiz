@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=7000&color=CC5CF7&background=FFFFFF00&lines=I'm+a+Front+End+Developer%2C+lets+link)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samluiz&theme=ocean_dark)](https://github.com/samluiz/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samluiz&theme=ocean_dark&show_icons=true)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
