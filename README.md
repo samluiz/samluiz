@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samluiz&theme=ocean_dark)](https://github.com/samluiz/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samluiz&theme=ocean_dark&show_icons=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![GitHub Snake dark](https://github.com/samluiz/samluiz/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
