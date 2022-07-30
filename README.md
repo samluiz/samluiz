@@ -1,6 +1,6 @@
 ![Samuel](https://github.com/samluiz/samluiz/blob/main/header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=7000&color=CC5CF7&background=FFFFFF00&lines=I'm+a+Front+End+Developer%2C+lets+link)](https://git.io/typing-svg)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={samluiz}&theme=blue-green)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 ![GitHub Snake dark](https://github.com/samluiz/samluiz/blob/output/github-contribution-grid-snake-dark.svg)
 
