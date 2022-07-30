@@ -1,4 +1,5 @@
 ![Samuel](https://github.com/samluiz/samluiz/blob/main/header.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=7000&color=CC5CF7&background=FFFFFF00&lines=I'm+a+Front+End+Developer%2C+lets+link)](https://git.io/typing-svg)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
