@@ -1,13 +1,8 @@
 ![Samuel](https://github.com/samluiz/samluiz/blob/main/header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=7000&color=CC5CF7&background=FFFFFF00&lines=I'm+a+Front+End+Developer%2C+lets+link)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samluiz" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samluiz" />
-</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samluiz&theme=ocean_dark)](https://github.com/samluiz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samluiz&show_icons=true)
 
 ![GitHub Snake dark](https://github.com/samluiz/samluiz/blob/output/github-contribution-grid-snake-dark.svg)
 
