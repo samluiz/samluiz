@@ -1,7 +1,7 @@
 ![Samuel](https://github.com/samluiz/samluiz/blob/main/header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=7000&color=CC5CF7&background=FFFFFF00&lines=I'm+a+Front+End+Developer%2C+lets+link)](https://git.io/typing-svg)
 
-![GitHub Snake Light](dist/github-snake.svg)
+![GitHub Snake Light](https://github.com/samluiz/samluiz/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Snake dark](dist/github-snake-dark.svg?palette=github-dark)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
