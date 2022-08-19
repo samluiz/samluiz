@@ -16,7 +16,6 @@
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&color=black" /></p>
- 
-# <p align="center">🏁</p>
+ #
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=samluiz&theme=swift&hide_border=true&include_all_commits=true&count_private=true" /></p>
