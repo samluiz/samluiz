@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a fullstack web developer.<br>🚀 Currently i'm focusing on developing skills in ReactJS and Java Spring Boot mainly,<br>💭 but i'd also like to learn and work with Vue.js, Angular, Node.js/Express and Django.
+💻 I'm a fullstack web developer.<br>🚀 Currently i'm focusing on developing skills in ReactJS and Java Spring Boot mainly,<br>💭 but i'd also like to learn and work with React Native, Vue.js, Angular, Node.js/Express and Django.
 
 
 ## 🌐 Socials:
