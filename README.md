@@ -1,5 +1,10 @@
 # <p align="center">❔</p>
-<p align="center"><em>🕳 I'm a web developer.<br>💨 Currently i'm focusing on developing skills in Python Django, Java Spring and ReactJS mainly,<br>💭 but i'd also like to learn and work with React Native, Vue.js, Angular and Node.js/Express.</em></p>
+<p align="center">
+<em>🕳 I'm a web developer.
+<br>💨 Currently i'm focusing on developing skills in Python Django, Java Spring and ReactJS mainly,
+<br>💭 but i'd also like to learn and work with React Native, Vue.js, Angular and Node.js/Express.
+</em>
+</p>
 
 <p align="center">
  <a href="https://www.instagram.com/7samuca7" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
@@ -9,7 +14,8 @@
 
 # <p align="center">💻</p>
 <p align="center">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=black" />
+ <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white&color=black" />
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black" />
