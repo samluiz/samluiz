@@ -15,6 +15,7 @@
 # <p align="center">💻</p>
 <p align="center">
  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white&color=black" />
+ <img src="https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black" />
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black" />
