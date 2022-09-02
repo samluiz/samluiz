@@ -26,5 +26,5 @@
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=black" /></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samluiz&hide=html,css&theme=swift&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samluiz&hide=html,css&theme=swift&hide_border=true&langs_count=10" />
 </p>
