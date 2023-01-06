@@ -1,8 +1,8 @@
 # <p align="center">❔</p>
 <p align="center">
 <em>🕳 I'm a web developer.
-<br>💨 Currently i'm focusing on developing skills in Python Django, Java Spring and ReactJS mainly,
-<br>💭 but i'd also like to learn and work with React Native, Vue.js, Angular and Node.js/Express.
+<br>💨 Currently i'm focusing on developing skills in Java Spring mainly,
+<br>💭 but i'd also like to learn and work with Flutter, Angular and NestJS.
 </em>
 </p>
 
