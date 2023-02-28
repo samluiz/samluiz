@@ -1,8 +1,8 @@
 # <p align="center">❔</p>
 <p align="center">
 <em>🕳 I'm a Application Developer at IBM.
-<br>💨 Currently i'm focusing on developing skills in Java Spring and AWS mainly,
-<br>💭 but i'd also like to learn and work with Flutter, Angular and NestJS.
+<br>💨 Currently i'm focusing on developing skills in Java Spring Boot and Angular mainly,
+<br>💭 but i'd also like to learn and work with NestJS.
 </em>
 </p>
 
