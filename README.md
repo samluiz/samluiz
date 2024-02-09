@@ -1,7 +1,7 @@
 # <p align="center">❔</p>
 <p align="center">
 <em>🕳 I'm an Application Developer at IBM.
-<br>💨 Currently i'm products with Java, Go, Astro and React;
+<br>💨 Currently i'm building products with Java, Go, Astro and React;
 <br>💭 but i'm also familiar with technologies like Node.js and Angular.
 </em>
 </p>
