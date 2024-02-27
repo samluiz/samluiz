@@ -1,4 +1,3 @@
-# <p align="center">❔</p>
 <p align="center">
 <em>🕳 I'm an Application Developer at IBM.
 <br>💨 Currently I'm building products with Java, Go, Astro, React, and Alpine.js;
