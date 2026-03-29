@@ -18,8 +18,6 @@ I am a senior software engineer working at Banco Bradesco. I've previously worke
 <a href="https://linkedin.com/in/samuelluizrl" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
 </p> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samluiz&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samluiz&layout=compact&theme=dark&langs_count=10)
+[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samluiz?cardType=github&theme=dark&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
