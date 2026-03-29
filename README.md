@@ -1,7 +1,4 @@
 <div align="left">
-
-# Samuel Luiz 
-
 ### Software Engineer with proficiency in distributed systems.
 
 </div>
