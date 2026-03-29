@@ -6,7 +6,7 @@
 
 </div>
 
-Senior software engineer working at Banco Bradesco. Previously worked at IBM in projects for the oil and bank sector. With a focus on System Design, aims for the greatest metrics and value delivery in every project. Leverages AI and agentic development for fast and reliable progress. Currently exploring Cybersecurity and reverse engineering topics.
+Senior software engineer working at Bradesco. Previously worked at IBM in projects for the oil and bank sector. With a focus on System Design, aims for the greatest metrics and value delivery in every project. Leverages AI and agentic development for fast and reliable progress. Currently exploring Cybersecurity and reverse engineering topics.
 
 <div align="left">
 
